@@ -1,3 +1,5 @@
+**NOTE:** This Project Is Built Off Of https://github.com/davidcallanan/os-series/tree/ep2 Low Level OS Dev IS NOT MY THING
+
 It's Like Cosmos But With ASM And C
 
 **Setup:**

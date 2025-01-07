@@ -1,5 +1,3 @@
-// Not My Code.
-
 #include "stdlib.h"
 #include "ports.h"
 

@@ -1,5 +1,3 @@
-// Not My Code.
-
 #pragma once
 
 typedef signed char int8;

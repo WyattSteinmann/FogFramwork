@@ -1,5 +1,3 @@
-// Not My Code.
-
 #pragma once
 
 #include <stdint.h>

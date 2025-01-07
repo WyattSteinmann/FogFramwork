@@ -1,4 +1,4 @@
-**NOTE:** This Project Is Built Off Of https://github.com/davidcallanan/os-series/tree/ep2 OS Dev In ASM Is Not My Thing But i Can Do Some Things And C But I Am New To C
+**NOTE:** This Project Is Built Off Of https://github.com/davidcallanan/os-series/tree/ep2 OS Dev In ASM Is Not My Thing.
 
 It's Like Cosmos But With ASM And C
 
